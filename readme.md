@@ -4,7 +4,7 @@ Hi, I'm a Frontend Developer, Programmer and Graphic Designer. I love web develo
 
 - 🔭 I’m currently pursuing bachelor's in Computer Science and Engineering.
 - 🌱 I love javascript.
-- 📫 How to reach me: kislay.kishan007@gmail.com
+- 📫 Connect me: kislay.kishan007@gmail.com
 
 ## My skills 🚀
 
