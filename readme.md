@@ -38,4 +38,3 @@ Hi, I'm a Frontend Developer, Programmer and Graphic Designer. I love web develo
 ## My contribution graph
 ![Kisalaya's contribution graph](https://activity-graph.herokuapp.com/graph?username=imkishan1&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB&area=true&custom_title=Contribution%20Graph)
 
-![snake svg](https://github.com/imkishan1/imkishan1/blob/output/github-contribution-grid-snake.svg)
