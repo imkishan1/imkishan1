@@ -26,9 +26,9 @@ Hi, I'm a Frontend Developer, Programmer and Graphic Designer. I love web develo
 ![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ## My activities
 
-<a href="https://github.com/imkishan1/github-readme-stats">
+<!-- <a href="https://github.com/imkishan1/github-readme-stats">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=imkishan1&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-</a>
+</a> -->
 <!--
 <a href="https://github.com/imkishan1/github-readme-stats">
  <img width= 450 height=170 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imkishan1&theme=midnight-purple" />
