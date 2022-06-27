@@ -39,7 +39,7 @@ Hi, I'm a Frontend Developer, Programmer and Graphic Designer. I love web develo
 -->
 <p align="left">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imkishan1&theme=midnight-purple&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkishan1&theme=midnight-purple" />
+<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkishan1&theme=midnight-purple" /> -->
 </p>  
 
 ## My contribution graph
