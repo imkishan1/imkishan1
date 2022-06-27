@@ -30,8 +30,9 @@ Hi, I'm a Frontend Developer, Programmer and Graphic Designer. I love web develo
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=imkishan1&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imkishan1&theme=midnight-purple" />
-
+<a href="https://github.com/imkishan1/github-readme-stats">
+ <img width= 450 height=170 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imkishan1&theme=midnight-purple" />
+</a>
 <a href="https://github.com/imkishan1/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkishan1&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
