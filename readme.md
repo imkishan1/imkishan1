@@ -42,7 +42,7 @@ Hi, I'm a Frontend Developer, Programmer and Graphic Designer. I love web develo
 </p>  
 
 <a href="https://github.com/imkishan1/github-readme-stats">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkishan1&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+  <img width=600 height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkishan1&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
 ## My contribution graph
